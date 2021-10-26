@@ -1,0 +1,7 @@
+# ninja log v5
+0	72	656348674	CMakeFiles/native-lib.dir/native-lib.cpp.o	b4f7b565362a4e20
+73	198	656348674	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	cf43cedf00f4d90
+0	808	656351734	CMakeFiles/native-lib.dir/native-lib.cpp.o	b4f7b565362a4e20
+810	1071	656351734	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	cf43cedf00f4d90
+2	861	656405526	CMakeFiles/native-lib.dir/native-lib.cpp.o	b4f7b565362a4e20
+861	1041	656405526	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/x86/libnative-lib.so	cf43cedf00f4d90

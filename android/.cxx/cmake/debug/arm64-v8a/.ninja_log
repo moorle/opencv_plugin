@@ -1,0 +1,17 @@
+# ninja log v5
+1	69	656346605	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+69	142	656346605	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+0	85	656348674	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+85	173	656348674	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+0	982	656349883	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+984	1088	656349884	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+2	1101	656403195	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+1102	1334	656403195	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+3	1018	656403276	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+1018	1101	656403276	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+3	961	656403488	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+961	1044	656403488	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+2	939	656403509	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+939	1023	656403509	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18
+3	967	656403556	CMakeFiles/native-lib.dir/native-lib.cpp.o	61f387c2027413ef
+967	1069	656403556	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ee216fe77e039e18

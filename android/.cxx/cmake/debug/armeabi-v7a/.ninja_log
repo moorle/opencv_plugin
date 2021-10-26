@@ -1,0 +1,7 @@
+# ninja log v5
+1	88	656348674	CMakeFiles/native-lib.dir/native-lib.cpp.o	c5ca4ce91a9629ae
+89	193	656348674	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	d4e720f366a38917
+0	932	656351733	CMakeFiles/native-lib.dir/native-lib.cpp.o	c5ca4ce91a9629ae
+934	1138	656351733	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	d4e720f366a38917
+3	963	656405525	CMakeFiles/native-lib.dir/native-lib.cpp.o	c5ca4ce91a9629ae
+964	1120	656405525	E:/Workspace/Android/opencv_plugin/example/build/opencv_plugin/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	d4e720f366a38917

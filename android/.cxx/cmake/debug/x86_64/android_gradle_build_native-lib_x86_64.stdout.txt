@@ -1,0 +1,14 @@
+ninja: Entering directory `E:\Workspace\Android\opencv_plugin\android\.cxx\cmake\debug\x86_64'
+[1/2] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
+E:/Workspace/Android/opencv_plugin/android/src/main/cpp/native-lib.cpp:33:46: warning: format specifies type 'int' but the argument has type 'unsigned long' [-Wformat]
+                            *imgLengthBytes, src->step[0] * src->rows,
+                                             ^~~~~~~~~~~~~~~~~~~~~~~~
+E:/Workspace/Android/opencv_plugin/android/src/main/cpp/native-lib.cpp:56:29: warning: format specifies type 'int' but the argument has type 'unsigned long' [-Wformat]
+                            src->step[0] * src->rows);
+                            ^~~~~~~~~~~~~~~~~~~~~~~~
+E:/Workspace/Android/opencv_plugin/android/src/main/cpp/native-lib.cpp:70:82: warning: format specifies type 'int' but the argument has type 'std::__ndk1::vector<unsigned char, std::__ndk1::allocator<unsigned char> >::size_type' (aka 'unsigned long') [-Wformat]
+                            "opencv_blur()  resulting image  length:%d %d x %d", buf.size(),
+                                                                    ~~           ^~~~~~~~~~
+                                                                    %lu
+3 warnings generated.
+[2/2] Linking CXX shared library E:\Workspace\Android\opencv_plugin\example\build\opencv_plugin\intermediates\cmake\debug\obj\x86_64\libnative-lib.so
